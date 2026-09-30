@@ -1,0 +1,52 @@
+PocketSmart AI 💰
+
+Your Smart Budget & Recommendation Assistant
+
+PocketSmart AI is a simple web-based budget assistant designed to help users manage their monthly income, expenses, and savings.
+
+Features
+
+- 💰 Monthly income input
+- 📊 Monthly expense calculation
+- 💵 Estimated savings calculation
+- 🤖 Smart budget recommendation
+- 📱 Simple and user-friendly interface
+- 🌐 Responsive web design
+
+Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+How It Works
+
+1. Enter your monthly income.
+2. Enter your monthly expenses.
+3. Click the Calculate button.
+4. PocketSmart AI calculates your estimated savings.
+5. Click Get Recommendation to receive a budgeting suggestion.
+
+Project Files
+
+- "index.html" – Main webpage
+- "style.css" – Website design and styling
+- "script.js" – Website functionality
+- "README.md" – Project information
+
+Project Objective
+
+The main objective of PocketSmart AI is to provide a simple digital solution for managing personal budgets and encouraging better saving habits.
+
+Future Improvements
+
+- AI-based personalized recommendations
+- Expense category tracking
+- Monthly expense charts
+- User login and profile
+- Database integration
+- Advanced financial insights
+
+Conclusion
+
+PocketSmart AI provides a simple and convenient way to understand monthly income, expenses, and savings while giving useful budgeting recommendations.R
