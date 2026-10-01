@@ -1,0 +1,107 @@
+POCKETSMART AI
+
+Your Smart Budget & Recommendation Assistant
+
+Phase 3: Project Design
+
+1. System Design
+
+PocketSmart AI is designed as a smart budgeting system that collects the user's income and expense information, processes the data, analyzes spending patterns, and provides budget recommendations.
+
+2. Main Modules
+
+The system can be divided into the following modules:
+
+1. User Input Module
+
+- Enter income details.
+- Enter expense details.
+- Select expense category.
+
+2. Expense Management Module
+
+- Record expenses.
+- Organize expenses into categories.
+- View expense history.
+
+3. Budget Management Module
+
+- Set a budget.
+- Compare spending with the budget.
+- Display the remaining budget.
+
+4. Calculation Module
+
+- Calculate total income.
+- Calculate total expenses.
+- Calculate remaining balance.
+
+5. Analysis Module
+
+- Analyze spending patterns.
+- Identify high-spending categories.
+- Compare spending with the planned budget.
+
+6. AI Recommendation Module
+
+- Analyze the user's spending information.
+- Generate personalized budget suggestions.
+- Suggest areas where unnecessary spending can be reduced.
+
+7. Dashboard Module
+
+- Display income.
+- Display expenses.
+- Display remaining balance.
+- Display budget status and recommendations.
+
+3. Basic System Flow
+
+User
+↓
+Enter Income & Expenses
+↓
+Expense Categorization
+↓
+Data Processing
+↓
+Spending Analysis
+↓
+AI Recommendation
+↓
+Dashboard / Results
+
+4. Input–Process–Output Design
+
+Input| Process| Output
+Income| Calculate total income| Total Income
+Expenses| Categorize and calculate| Total Expenses
+Budget| Compare with expenses| Budget Status
+Spending Data| Analyze spending pattern| Spending Analysis
+User Data| Generate recommendations| Smart Suggestions
+
+5. User Interface Design
+
+The proposed interface should contain simple sections such as:
+
+- Home/Dashboard
+- Add Income
+- Add Expense
+- Set Budget
+- Expense History
+- Spending Analysis
+- AI Recommendations
+
+The interface should be simple and easy to understand.
+
+6. Data Flow
+
+The user's income and expense information is entered into the system. The system processes and stores the information, performs calculations and spending analysis, and then provides the results and recommendations through the dashboard.
+
+7. Design Goal
+
+The main design goal is to create a simple, user-friendly, and organized budgeting assistant that helps users understand their spending and manage their budget effectively.
+
+Note
+
+The final system architecture, database design, UI design, programming language, and AI/ML implementation will be finalized after reviewing the official SmartBridge Project Document and Reference Video.
