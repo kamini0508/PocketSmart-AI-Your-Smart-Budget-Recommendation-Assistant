@@ -1,0 +1,89 @@
+POCKETSMART AI
+
+Your Smart Budget & Recommendation Assistant
+
+Phase 6: Project Testing
+
+1. Testing Objective
+
+The objective of this phase is to test PocketSmart AI and make sure that its features work correctly, produce accurate results, and handle incorrect inputs properly.
+
+2. Testing Methods
+
+The project will be tested module by module and then as a complete system.
+
+3. Test Cases
+
+Test Case| Input| Expected Result
+1. Income Entry| ₹20,000| Income should be recorded correctly
+2. Expense Entry| ₹2,000| Expense should be recorded correctly
+3. Total Expense| ₹2,000 + ₹3,000| Total should show ₹5,000
+4. Balance Calculation| Income ₹20,000, Expense ₹5,000| Balance should show ₹15,000
+5. Expense Category| Food| Expense should be placed under Food
+6. Budget Check| Budget ₹10,000, Expense ₹8,000| System should show remaining budget ₹2,000
+7. Budget Exceeded| Budget ₹10,000, Expense ₹12,000| System should indicate that the budget has been exceeded
+8. Spending Analysis| Multiple categories| System should display spending information
+9. Recommendation| High spending in one category| System should provide a relevant recommendation
+10. Invalid Input| Incorrect/empty value| System should display an appropriate error message
+
+4. Functional Testing
+
+The following features should be tested:
+
+- Income entry
+- Expense entry
+- Expense categorization
+- Budget setting
+- Calculations
+- Spending analysis
+- AI recommendations
+- Dashboard
+- Data storage
+
+5. Usability Testing
+
+The interface should be checked to ensure that:
+
+- Buttons are easy to understand.
+- Information is clearly displayed.
+- Users can easily enter data.
+- Results are easy to read.
+- Navigation is simple.
+
+6. Error Testing
+
+The system should also be tested with:
+
+- Empty fields
+- Invalid numbers
+- Negative values where they are not allowed
+- Very large values
+- Incorrect data formats
+
+The system should handle invalid inputs without crashing.
+
+7. Integration Testing
+
+After testing individual modules, all modules should be connected and tested together.
+
+User Input → Expense Management → Calculation → Analysis → Recommendation → Dashboard
+
+The complete flow should work correctly.
+
+8. Testing Result
+
+After testing, any errors found during development should be corrected and the affected features should be tested again.
+
+9. Final Testing Goal
+
+The final goal is to ensure that PocketSmart AI is:
+
+- Accurate
+- Reliable
+- User-friendly
+- Stable
+- Ready for demonstration
+
+Note
+
+The actual test cases should be updated after the final features and technologies are confirmed from the official SmartBridge Project Document.
