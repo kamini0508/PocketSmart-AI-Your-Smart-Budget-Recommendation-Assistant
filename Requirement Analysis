@@ -1,0 +1,107 @@
+POCKETSMART AI
+
+Your Smart Budget & Recommendation Assistant
+
+Phase 2: Requirement Analysis
+
+1. Functional Requirements
+
+The system should provide the following functions:
+
+1. User Input
+   
+   - Allow users to enter their income.
+   - Allow users to enter their expenses.
+
+2. Expense Management
+   
+   - Store expense details.
+   - Categorize expenses such as Food, Travel, Education, Shopping, Bills, etc.
+
+3. Budget Management
+   
+   - Allow users to set a budget.
+   - Compare actual spending with the planned budget.
+
+4. Calculation
+   
+   - Calculate total income.
+   - Calculate total expenses.
+   - Calculate the remaining balance.
+
+5. Spending Analysis
+   
+   - Analyze the user's spending pattern.
+   - Identify high-spending categories.
+
+6. AI Recommendation
+   
+   - Provide simple recommendations based on the user's income and spending.
+   - Suggest areas where the user can reduce unnecessary spending.
+
+7. Report/Dashboard
+   
+   - Display income, expenses, balance, and spending information clearly.
+
+2. Non-Functional Requirements
+
+The system should be:
+
+- User-friendly – Easy for users to understand and operate.
+- Reliable – Calculations should be accurate.
+- Secure – User information should be handled safely.
+- Fast – Results should be displayed quickly.
+- Maintainable – The system should be easy to update in the future.
+
+3. Hardware Requirements
+
+The exact hardware requirements will depend on the platform selected for the project.
+
+Basic requirements may include:
+
+- Computer/Laptop
+- Keyboard and Mouse
+- Internet connection
+
+4. Software Requirements
+
+The exact software and programming technologies will be finalized after receiving and reviewing the official SmartBridge Project Document and Reference Video.
+
+Possible requirements may include:
+
+- Code editor/IDE
+- Programming language
+- Database
+- AI/ML tools or libraries
+- Web/App development tools
+
+5. Input Requirements
+
+The system may require:
+
+- User income
+- Expense amount
+- Expense category
+- Date of expense
+- Monthly budget
+- Other relevant spending details
+
+6. Output Requirements
+
+The system should provide:
+
+- Total income
+- Total expenses
+- Remaining balance
+- Category-wise spending
+- Budget status
+- Spending analysis
+- Smart recommendations
+
+7. Requirement Summary
+
+PocketSmart AI requires a simple system that can collect financial information, process the data, analyze spending patterns, and provide useful budget recommendations to the user.
+
+Note
+
+The above requirements are the proposed requirements based on the project title. They should be updated if the official SmartBridge Project Document specifies different requirements.
